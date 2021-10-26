@@ -6,6 +6,6 @@ Self-learning Notes - Software Engineering Tenth Edition (Ian Sommerville)
 - YouTube: [youtube.com/user/SoftwareEngBook](https://www.youtube.com/user/SoftwareEngBook)
 
 ## Content
-- [Introduction]()
-- [Software Processes]()
-- [Requirements Engineering]()
+- [Introduction](https://github.com/MoAo-01/Software-engineering/tree/main/notes/week1)
+- [Software Processes](https://github.com/MoAo-01/Software-engineering/tree/main/notes/week2)
+- [Requirements Engineering](https://github.com/MoAo-01/Software-engineering/tree/main/notes/week4)
