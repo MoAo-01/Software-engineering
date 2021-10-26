@@ -7,10 +7,14 @@
 
 ## SOFTWARE PROCESS ACTIVITIES
 Four activities that are fundamental to software engineering:
-- Software specification 软件规格说明
-- Software design and implementation 软件开发
-- Software validation 软件确认
-- Software evolution 软件演化
+- Software specification 
+- Software design and implementation 
+- Software validation 
+- Software evolution 
+- 软件规格说明
+- 软件开发
+- 软件确认
+- 软件演化
 
 ## 
 - Software processes are complex and, there is no ideal process
