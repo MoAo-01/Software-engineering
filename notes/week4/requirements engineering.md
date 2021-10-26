@@ -43,7 +43,7 @@ SOFTWARE PROCESS = {
 
 ## e.g. Readers of different types of requirements specification 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/83717535/138846494-302e39ef-9286-4022-8a0c-0d5ccc710b22.png" width="720"/>
+    <img src="https://user-images.githubusercontent.com/83717535/138846494-302e39ef-9286-4022-8a0c-0d5ccc710b22.png" width="500"/>
 </div>
 
 
