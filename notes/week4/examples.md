@@ -34,3 +34,55 @@ Write a set of non-functional requirements for the ticket-issuing system, settin
 7. The maximum acceptable failure rate for ticket issue requests is 1: 10000. 
 8. The system shall continue to function so long as roll of ticket paper is in the machine, and a network connection is provided for the destination database and credit transactions. 
 
+Write a structured specification of the requirement for a “cash-dispensing function in a bank ATM” using the below suggested format:
+## Suggestion Answer:
+
+
+|FunctionName|ATM cash dispenser|
+|------------------------|------------------------|
+|Description|Verifies the cardholder's pin number and dispenses the amount of cash desired.|
+|MainActor(s)|ATM card holder|
+|PreCondition|User must have enough money in their account; ATM must have enough money; user's pin number must be correct.|
+|PostCondition|Amount of cash in ATM must be subtracted; transaction must be recorded.|
+|MainScenario|8 scenario below|
+|Exception|4 exceptions (details below)|
+
+### Main Scenario
+1. User inserts debit card; 
+2. user inputs pin; 
+3. ATM check the validity of the pin; 
+4. user enters amount of cash desired;
+5. ATM checks if user's account has enough cash to be dispensed;
+6. ATM checks if ATM has enough cash to be dispersed;
+7. ATM dispenses cash if these checks are passed;
+8. ATM eject the debit card and print a receipt.
+
+### Exception
+
+- Exception 1
+  1. User inserts an invalid debit card;
+  2. ATM eject the invalid card
+
+- Exception 2
+  1. User inserts debit card;
+  2. User inputs pin;
+  3. ATM check the validity of the pin; user entered invalid pin;
+  4. ATM eject the card;
+
+- Exception 3
+  1. User inserts debit card; 
+  2. user inputs pin; 
+  3. ATM check the validity of the pin; 
+  4. user enters amount of cash desired; 
+  5. ATM checks if user's account has enough cash to be dispensed;
+  6. User has not enough money, ATM display relevant message and go back to step 4.
+
+- Exception 4
+  1.	User inserts debit card; 
+  2.	user inputs pin; 
+  3.	ATM check the validity of the pin; 
+  4.	user enters amount of cash desired; 
+  5.	ATM checks if user's account has enough cash to be dispensed; 
+  6.	ATM checks if ATM has enough cash to be dispersed;
+
+
