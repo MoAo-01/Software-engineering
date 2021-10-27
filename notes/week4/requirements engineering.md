@@ -1,3 +1,4 @@
+# Requirements Engineering
 
 Requirements Engineering (RE) is in the step of "Software Specification".
 
@@ -35,6 +36,30 @@ SOFTWARE PROCESS = {
     - operational constraints
 
 ## e.g. User and system requirements 
-![image](https://user-images.githubusercontent.com/83717535/138846449-8586d193-9e3f-4efa-a69d-7e30028d6595.png)
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/83717535/138846449-8586d193-9e3f-4efa-a69d-7e30028d6595.png" width="720"/>
+</div>
+
 ## e.g. Readers of different types of requirements specification 
-![image](https://user-images.githubusercontent.com/83717535/138846494-302e39ef-9286-4022-8a0c-0d5ccc710b22.png)
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/83717535/138846494-302e39ef-9286-4022-8a0c-0d5ccc710b22.png" width="500"/>
+</div>
+
+
+## Stakeholder types
+- End users
+- System managers
+- System owners
+- External stakeholders
+
+## Functional and non-functional requirements (page-62)
+
+- Functional requirements
+  - Statements of services the system should provide, how the system should react to particular inputs and how the system should behave in particular situations.
+  - May state what the system should not do.
+- Non-functional requirements
+  - Constraints on the services or functions offered by the system such as timing constraints, constraints on the development process, standards, etc.
+  - Often apply to the system as a whole rather than individual features or services.
+- Domain requirements
+  - Constraints on the system from the domain of operation

@@ -1,7 +1,7 @@
 # Software-engineering
-Software Engineering 10th Edition (Ian Sommerville) (Self-using)
-Software Engineering 9th Edition (Ian Sommerville) (Uploaded)
-Software Engineering A.Practitioners.Approach.8th.Edition
+- Software Engineering 10th Edition (Ian Sommerville) (Self-using)
+- Software Engineering 9th Edition (Ian Sommerville) (Uploaded)
+- Software Engineering A.Practitioners.Approach.8th.Edition
 
 
 ## Related Resources
